@@ -1,0 +1,11 @@
+DocDetect.xcworkspace/xcuserdata/
+xcuserdata/
+Pods/*
+DocDetect.xcworkspace/xcshareddata/
+DocDetect.xcworkspace
+IDEWorkspaceChecks.plist
+UserInterfaceState.xcuserstate
+fastlane
+Gemfile
+Gemfile.lock
+build
