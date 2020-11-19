@@ -11,4 +11,4 @@
 对应安卓版请看 https://github.com/szuwest/doc_detect_android
 
 如果对你有用或许你可以打赏
-https://raw.githubusercontent.com/szuwest/szuwest.github.io/master/images/2018-02-21%20133111.jpg
+![打赏](https://raw.githubusercontent.com/szuwest/szuwest.github.io/master/images/2018-02-21%20133111.jpg)
